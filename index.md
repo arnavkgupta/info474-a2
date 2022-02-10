@@ -1,6 +1,6 @@
 # info474-a2
 
-![](src/img.png)
+![](/img.png)
 
 
 The top two visualizations represent the total number of US births each month in both 2013 and 2014. The purpose of these visualizations is to show the difference in birth rate for both of the years. Not only does it show a yearly change but it also displays the monthly change during each year. It is crucial to monitor birth rates as they rise and fall and measure these trends to track important changes and what they may mean for our society's future. The first graph highlights the total number of births per month in 2013, as shown by the blue line. The second graph highlights the total number of births per month in 2014. The birth rates for both years seem to be relatively the same with minor differences in between months. 
